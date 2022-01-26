@@ -1,8 +1,8 @@
 # PHP-Developer-Test-API
 
-Versi PHP = 7.2.3
-Node Express
-MySQL
+* Versi PHP = 7.2.3
+* Node Express
+* MySQL
 
 
 # Hasil Test API menggunakan Postman
@@ -34,3 +34,12 @@ MySQL
 * Hasil Delete
 ![hasil delete data](https://user-images.githubusercontent.com/92254494/151083869-69b5c259-b929-4526-b7da-7717abfd5414.PNG)
 
+# Cara Mencoba aplikasi
+* Clone Project Ini
+* Simpan project di xampp/htdocs
+* buka projet di VSCode
+* Jalankan Aplikasi dengan mengetikan "node index.js"
+* lalu buka google Chrome
+* masukan link berikut "localhost/nama_project/"
+* maka aplikasi bisa di jalankan
+* jika ingin mencoba API menggunakan Postman, pastikan project di jalankan terlebih dahulu
