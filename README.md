@@ -40,6 +40,6 @@
 * buka projet di VSCode
 * Jalankan Aplikasi dengan mengetikan "node index.js"
 * lalu buka google Chrome
-* masukan link berikut "localhost/nama_project/"
+* masukan link berikut "localhost/nama_project/product_view.hbs"
 * maka aplikasi bisa di jalankan
 * jika ingin mencoba API menggunakan Postman, pastikan project di jalankan terlebih dahulu
