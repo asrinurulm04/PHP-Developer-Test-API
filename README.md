@@ -37,6 +37,7 @@
 # Cara Mencoba aplikasi
 * Clone Project Ini
 * Simpan project di xampp/htdocs
+* export database "test_backend.ssql" ke php MyAdmin
 * buka projet di VSCode
 * Jalankan Aplikasi dengan mengetikan "node index.js"
 * lalu buka google Chrome
