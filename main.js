@@ -6,6 +6,7 @@
     const titleType = document.getElementById('title-type');
     const titleStok = document.getElementById('title-stok');
     const btnSubmit = document.querySelector('.btn');
+    let output = '';
 
     const renderPosts = (posts) =>{
       posts.forEach(post => {
@@ -24,8 +25,6 @@
       });
       postsList.innerHTML = output;
     }
-
-    let output = '';
 
     postsList.addEventListener('click', (e) => {
       e.preventDefault();

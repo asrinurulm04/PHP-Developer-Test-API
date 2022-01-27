@@ -43,7 +43,7 @@ app.get('/api/bootcampReed', (req, res) => {
         res.status(200).json({ success: true, data: rows });
     });
 });
-// update data
+
 // update data
 app.put('/api/bootcampUpdate/:id', (req, res) => {
     // buat variabel penampung data dan query sql
